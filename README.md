@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prathosh_anbu" target="blank"><img src="https://img.shields.io/twitter/follow/prathosh_anbu?logo=twitter&style=for-the-badge" alt="prathosh_anbu" /></a> </p>
 
-- 🔭 I’m currently working on **Bitcoin Sentiment Analysis**
+- 🔭 I’m currently working on **Fontend Projects**
 
 - 🌱 I’m currently learning **Python and Fontend**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prathosh_anbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathosh_anbu" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/prathosh.a](https://www.linkedin.com/in/prathosh-anbarasan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="prathosh.a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathosh-anbarasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="prathosh-anbarasan" height="30" width="40" /></a>
 <a href="https://instagram.com/pratha_prathosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profil-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratha_prathosh_" height="30" width="40" /></a>
 </p>
 
