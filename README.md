@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Bitcoin Sentiment Analysis**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Python and Fontend**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1YYmEmnvRyFxJM7p_1PMHsvLTMhxWt0H5/view?usp=drivesdk](https://drive.google.com/file/d/1YYmEmnvRyFxJM7p_1PMHsvLTMhxWt0H5/view?usp=drivesdk)
 
-- 💬 Ask me about **Small Python Projects.**
+- 💬 Ask me about **Small Python Projects and Fontend projects.**
 
 - 📫 How to reach me **prathoshpratha6@gmail.com**
 
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prathosh_anbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathosh_anbu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathosh.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathosh.a" height="30" width="40" /></a>
-<a href="https://instagram.com/pratha_prathosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratha_prathosh_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathosh.a" target="blank"><img align="center" src="https://www.linkedin.com/in/prathosh-anbarasanutm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="prathosh.a" height="30" width="40" /></a>
+<a href="https://instagram.com/pratha_prathosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profil-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratha_prathosh_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
